@@ -1,0 +1,1 @@
+# MySQL_MASTER_SLAVE_GTID_5.7_Vagrant
